@@ -1,0 +1,10 @@
+* text=auto
+*.navcache binary
+*.navcover binary
+*.navlinks binary
+*.navseams binary
+*.gfx binary
+*.upk binary
+*.bnk binary
+*.bik binary
+bltd-bots/maps/*.txt binary
